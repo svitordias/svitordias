@@ -1,8 +1,8 @@
 
 ## **Opa bom! Eu sou o Vitor Dias**
 
- - 🍀 Estudando HTML, CSS e JavaScript - Front-end (Básico)
- - 😄 Pronouns: ele/dele
+🍀 Estudando HTML, CSS e JavaScript - Front-end (Básico)
+
 
 <div align="center">
   <a href="https://github.com/Vitrola62">

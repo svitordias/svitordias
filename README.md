@@ -1,7 +1,7 @@
 
 ## **Opa bom! Eu sou o Vitor Dias**
 
-🍀 HTML, CSS e JavaScript / Front-end 
+print('🍀 HTML, CSS e JavaScript / Front-end ', end='')
 🍀 Python 3
 
 

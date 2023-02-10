@@ -1,7 +1,8 @@
 
 ## **Opa bom! Eu sou o Vitor Dias**
 
-🍀 Estudando HTML, CSS e JavaScript / Front-end 
+🍀 HTML, CSS e JavaScript / Front-end 
+🍀 Python 3
 
 
 <div align="center">

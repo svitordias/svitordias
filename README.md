@@ -1,8 +1,7 @@
 
 ## **Opa bom! Eu sou o Vitor Dias**
 
-print('🍀 HTML, CSS e JavaScript / Front-end ', end='')
-🍀 Python 3
+🍀 HTML, CSS, JavaScript e Python 3/ Front-end
 
 
 <div align="center">

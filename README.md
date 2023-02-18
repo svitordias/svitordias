@@ -1,7 +1,7 @@
 
 ## **Opa bom! Eu sou o Vitor Dias**
 
-🍀 Estudando HTML, CSS (para Front End).E linguagens JavaScript e Python 3
+🍀 Estudando HTML, CSS (para Front End). E linguagens JavaScript e Python 3
 
 
 

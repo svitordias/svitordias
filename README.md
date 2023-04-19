@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   <img align="center" alt="Vitor-Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   
 
-## **Estudo**
+## **Outros**
    <img align="center" alt="Vitor-Py" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-Django" height="50" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">

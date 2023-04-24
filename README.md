@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/vitordias3">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitrola62&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordias3&layout=compact&langs_count=7&theme=dark"/>
   
     
 ## **Front-end**

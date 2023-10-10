@@ -25,6 +25,7 @@
    <img align="center" alt="Vitor-Py" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" hspace="10">
   <img align="center" alt="Vitor-Django" height="50" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" hspace="10">
   <img align="center" alt="Vitor-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" hspace="10">
+  <img align="center" alt="Vitor-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" hspace="10">
   <img align="center" alt="Vitor-Wp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" hspace="10">
 
 ## 

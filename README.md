@@ -6,8 +6,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/vitordias3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordias3&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/svitordias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svitordias&layout=compact&langs_count=7&theme=dark"/>
   
     
 ## **Front-end**
@@ -35,5 +35,5 @@
   <a href = "mailto:vitordias-sousa@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
-![Snake animation](https://github.com/vitordias3/vitordias3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/svitordias/svitordias/blob/output/github-contribution-grid-snake.svg)
 
